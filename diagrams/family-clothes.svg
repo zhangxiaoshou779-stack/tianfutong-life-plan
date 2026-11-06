@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="1460" viewBox="0 0 1320 1460" role="img" aria-labelledby="title desc">
+<title id="title">旧衣物回收：业务承接、履约与结果交付</title>
+<desc id="desc">四个责任方的泳道流程。矩形为处理，菱形为判断，圆角绿色节点为用户或平台获得的结果；虚线表示状态及对账回传，蓝线表示合同付款。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#496756"/></marker><marker id="data" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#7a9185"/></marker><marker id="money" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#356c9c"/></marker></defs>
+<rect width="1320" height="1460" fill="#ffffff"/>
+<style>text{font-family:"Microsoft YaHei","PingFang SC",sans-serif;fill:#223b32} .node-label{font-size:20px} .branch-label{font-size:16px;fill:#496756}</style>
+<text x="28" y="38" font-size="26" font-weight="600">旧衣物回收：业务承接、履约与结果交付</text>
+<rect x="96" y="62" width="300" height="1290" fill="#f9fbf9"/>
+<rect x="96" y="62" width="300" height="94" fill="#edf2ed"/>
+<line x1="96" y1="62" x2="96" y2="1352" stroke="#d8e2d9"/>
+<text x="246.0" y="100" font-size="23" font-weight="600" text-anchor="middle">用户</text>
+<text x="246.0" y="132" font-size="15" text-anchor="middle">提出需求、交衣、获得结果</text>
+<rect x="396" y="62" width="300" height="1290" fill="#f1f7f2"/>
+<rect x="396" y="62" width="300" height="94" fill="#dcece1"/>
+<line x1="396" y1="62" x2="396" y2="1352" stroke="#d8e2d9"/>
+<text x="546.0" y="100" font-size="23" font-weight="600" text-anchor="middle">天府通</text>
+<text x="546.0" y="132" font-size="15" text-anchor="middle">入口、渠道、状态、受理、对账</text>
+<rect x="696" y="62" width="300" height="1290" fill="#f9fbf9"/>
+<rect x="696" y="62" width="300" height="94" fill="#edf2ed"/>
+<line x1="696" y1="62" x2="696" y2="1352" stroke="#d8e2d9"/>
+<text x="846.0" y="100" font-size="23" font-weight="600" text-anchor="middle">飞蚂蚁</text>
+<text x="846.0" y="132" font-size="15" text-anchor="middle">承接回收、验收、权益与合作结算</text>
+<rect x="996" y="62" width="300" height="1290" fill="#ffffff"/>
+<rect x="996" y="62" width="300" height="94" fill="#edf2ed"/>
+<line x1="996" y1="62" x2="996" y2="1352" stroke="#d8e2d9"/>
+<text x="1146.0" y="100" font-size="23" font-weight="600" text-anchor="middle">物流 / 分拣方</text>
+<text x="1146.0" y="132" font-size="15" text-anchor="middle">联系取件、运输、称重与处理</text>
+<line x1="1296" y1="62" x2="1296" y2="1352" stroke="#d8e2d9"/>
+<line x1="96" y1="164" x2="1296" y2="164" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="230" font-size="14" fill="#63786b">01</text>
+<text x="18" y="254" font-size="13">进入</text>
+<text x="18" y="274" font-size="13">服务</text>
+<line x1="96" y1="314" x2="1296" y2="314" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="380" font-size="14" fill="#63786b">02</text>
+<text x="18" y="404" font-size="13">预约</text>
+<text x="18" y="424" font-size="13">承接</text>
+<line x1="96" y1="464" x2="1296" y2="464" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="530" font-size="14" fill="#63786b">03</text>
+<text x="18" y="554" font-size="13">上门</text>
+<text x="18" y="574" font-size="13">交接</text>
+<line x1="96" y1="614" x2="1296" y2="614" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="680" font-size="14" fill="#63786b">04</text>
+<text x="18" y="704" font-size="13">物流</text>
+<text x="18" y="724" font-size="13">履约</text>
+<line x1="96" y1="764" x2="1296" y2="764" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="830" font-size="14" fill="#63786b">05</text>
+<text x="18" y="854" font-size="13">验收</text>
+<text x="18" y="874" font-size="13">判断</text>
+<line x1="96" y1="914" x2="1296" y2="914" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="980" font-size="14" fill="#63786b">06</text>
+<text x="18" y="1004" font-size="13">结果</text>
+<text x="18" y="1024" font-size="13">回传</text>
+<line x1="96" y1="1064" x2="1296" y2="1064" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="1130" font-size="14" fill="#63786b">07</text>
+<text x="18" y="1154" font-size="13">权益与</text>
+<text x="18" y="1174" font-size="13">对账</text>
+<line x1="96" y1="1214" x2="1296" y2="1214" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="1280" font-size="14" fill="#63786b">08</text>
+<text x="18" y="1304" font-size="13">留存与</text>
+<text x="18" y="1324" font-size="13">经营</text>
+<polyline points="371.0,238 421.0,238" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,291.0 546.0,313.0 246.0,313.0 246.0,335.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="371.0,388 421.0,388" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="671.0,388 721.0,388" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="846.0,441.0 846.0,463.0 1146.0,463.0 1146.0,485.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="1021.0,538 371.0,538" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="246.0,591.0 246.0,613.0 1146.0,613.0 1146.0,635.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="1146.0,591.0 1146.0,613.0 1146.0,613.0 1146.0,635.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="1146.0,741.0 1146.0,763.0 846.0,763.0 846.0,785.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="846.0,891.0 846.0,913.0 846.0,913.0 846.0,935.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="727.0,838 671.0,838" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,891.0 546.0,913.0 846.0,913.0 846.0,935.0" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<polyline points="721.0,988 671.0,988" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<polyline points="546.0,1041.0 546.0,1063.0 246.0,1063.0 246.0,1085.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,1041.0 546.0,1063.0 546.0,1063.0 546.0,1085.0" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<polyline points="846.0,1041.0 846.0,1063.0 846.0,1063.0 846.0,1085.0" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<polyline points="721.0,1138 671.0,1138" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<polyline points="546.0,1191.0 546.0,1213.0 546.0,1213.0 546.0,1235.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="121.0" y="185.0" width="250" height="106" rx="53.0" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="231" text-anchor="middle" font-weight="600">进入家庭生活</text>
+<text class="node-label" x="246.0" y="259" text-anchor="middle" font-weight="400">选择旧衣物回收</text>
+<rect x="421.0" y="185.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="231" text-anchor="middle" font-weight="600">展示合作方与规则</text>
+<text class="node-label" x="546.0" y="259" text-anchor="middle" font-weight="400">校验地址、起收条件</text>
+<rect x="121.0" y="335.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="381" text-anchor="middle" font-weight="600">授权并填写预约</text>
+<text class="node-label" x="246.0" y="409" text-anchor="middle" font-weight="400">地址、时间、预估重量</text>
+<rect x="421.0" y="335.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="381" text-anchor="middle" font-weight="600">进入专属预约渠道</text>
+<text class="node-label" x="546.0" y="409" text-anchor="middle" font-weight="400">关联天府通与合作订单</text>
+<rect x="721.0" y="335.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="846.0" y="381" text-anchor="middle" font-weight="600">承接预约、校验条件</text>
+<text class="node-label" x="846.0" y="409" text-anchor="middle" font-weight="400">派发取件任务</text>
+<rect x="121.0" y="485.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="531" text-anchor="middle" font-weight="600">整理打包并交衣</text>
+<text class="node-label" x="246.0" y="559" text-anchor="middle" font-weight="400">核对包裹与取件</text>
+<rect x="1021.0" y="485.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="1146.0" y="531" text-anchor="middle" font-weight="600">联系用户、上门取件</text>
+<text class="node-label" x="1146.0" y="559" text-anchor="middle" font-weight="400">记录揽收与包裹</text>
+<rect x="1021.0" y="635.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="1146.0" y="681" text-anchor="middle" font-weight="600">运输、签收与称重</text>
+<text class="node-label" x="1146.0" y="709" text-anchor="middle" font-weight="400">进入后端分拣处理</text>
+<polygon points="846.0,785.0 965.0,838 846.0,891.0 727.0,838" fill="#fff7e8" stroke="#ba9650" stroke-width="1.7"/>
+<text class="node-label" x="846.0" y="831" text-anchor="middle" font-weight="600">验收结果</text>
+<text class="node-label" x="846.0" y="859" text-anchor="middle" font-weight="400">满足条件？</text>
+<rect x="421.0" y="785.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="831" text-anchor="middle" font-weight="600">解释不符、受理争议</text>
+<text class="node-label" x="546.0" y="859" text-anchor="middle" font-weight="400">转飞蚂蚁核定结果</text>
+<rect x="721.0" y="935.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="846.0" y="981" text-anchor="middle" font-weight="600">按规则处理权益</text>
+<text class="node-label" x="846.0" y="1009" text-anchor="middle" font-weight="400">回传验收与奖励结果</text>
+<rect x="421.0" y="935.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="981" text-anchor="middle" font-weight="600">同步订单与权益状态</text>
+<text class="node-label" x="546.0" y="1009" text-anchor="middle" font-weight="400">向用户解释处理结果</text>
+<rect x="121.0" y="1085.0" width="250" height="106" rx="53.0" fill="#e4f2e9" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="1117" text-anchor="middle" font-weight="600">旧衣被按规则取走</text>
+<text class="node-label" x="246.0" y="1145" text-anchor="middle" font-weight="400">获得适用权益或说明</text>
+<text class="node-label" x="246.0" y="1173" text-anchor="middle" font-weight="400">可查记录与兑换指引</text>
+<rect x="721.0" y="1085.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="846.0" y="1131" text-anchor="middle" font-weight="600">提供有效回收清单</text>
+<text class="node-label" x="846.0" y="1159" text-anchor="middle" font-weight="400">核对合同费用与异常</text>
+<rect x="421.0" y="1085.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="1131" text-anchor="middle" font-weight="600">核对渠道归因和账单</text>
+<text class="node-label" x="546.0" y="1159" text-anchor="middle" font-weight="400">有收费条款则结算</text>
+<rect x="421.0" y="1235.0" width="250" height="106" rx="53.0" fill="#e4f2e9" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="1281" text-anchor="middle" font-weight="600">形成服务记录与投入账</text>
+<text class="node-label" x="546.0" y="1309" text-anchor="middle" font-weight="400">用户自愿订阅换季提醒</text>
+<rect x="851.0" y="902.0" width="44" height="24" fill="#ffffff"/>
+<text class="branch-label" x="873.0" y="919.0" text-anchor="middle">符合</text>
+<rect x="637.0" y="810" width="124" height="24" fill="#ffffff"/>
+<text class="branch-label" x="699.0" y="827" text-anchor="middle">争议 / 不符</text>
+<rect x="658.0" y="888.0" width="76" height="24" fill="#ffffff"/>
+<text class="branch-label" x="696.0" y="905.0" text-anchor="middle">核定结果</text>
+<line x1="28" y1="1385" x2="68" y2="1385" stroke="#496756" stroke-width="2.2" marker-end="url(#arrow)"/><text x="80" y="1391" font-size="15">业务动作</text>
+<line x1="222" y1="1385" x2="262" y2="1385" stroke="#7a9185" stroke-width="2.2" stroke-dasharray="7 5" marker-end="url(#data)"/><text x="274" y="1391" font-size="15">状态 / 凭证 / 对账</text>
+<line x1="486" y1="1385" x2="526" y2="1385" stroke="#356c9c" stroke-width="2.2" marker-end="url(#money)"/><text x="538" y="1391" font-size="15">合同付款</text>
+<text x="28" y="1430" font-size="14" fill="#667a6d">建议业务流程；合作范围、接口、权益与计费口径按当前合同及实际能力验收。</text>
+</svg>

@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="1460" viewBox="0 0 1320 1460" role="img" aria-labelledby="title desc">
+<title id="title">水电气缴费：支付与单位入账分别确认</title>
+<desc id="desc">四个责任方的泳道流程。矩形为处理，菱形为判断，圆角绿色节点为用户或平台获得的结果；虚线表示状态及对账回传，蓝线表示合同付款。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#496756"/></marker><marker id="data" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#7a9185"/></marker><marker id="money" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#356c9c"/></marker></defs>
+<rect width="1320" height="1460" fill="#ffffff"/>
+<style>text{font-family:"Microsoft YaHei","PingFang SC",sans-serif;fill:#223b32} .node-label{font-size:20px} .branch-label{font-size:16px;fill:#496756}</style>
+<text x="28" y="38" font-size="26" font-weight="600">水电气缴费：支付与单位入账分别确认</text>
+<rect x="96" y="62" width="300" height="1290" fill="#f9fbf9"/>
+<rect x="96" y="62" width="300" height="94" fill="#edf2ed"/>
+<line x1="96" y1="62" x2="96" y2="1352" stroke="#d8e2d9"/>
+<text x="246.0" y="100" font-size="23" font-weight="600" text-anchor="middle">用户</text>
+<text x="246.0" y="132" font-size="15" text-anchor="middle">确认户号、账单、付款与结果</text>
+<rect x="396" y="62" width="300" height="1290" fill="#f1f7f2"/>
+<rect x="396" y="62" width="300" height="94" fill="#dcece1"/>
+<line x1="396" y1="62" x2="396" y2="1352" stroke="#d8e2d9"/>
+<text x="546.0" y="100" font-size="23" font-weight="600" text-anchor="middle">天府通</text>
+<text x="546.0" y="132" font-size="15" text-anchor="middle">组织查询、关联订单、状态与受理</text>
+<rect x="696" y="62" width="300" height="1290" fill="#f9fbf9"/>
+<rect x="696" y="62" width="300" height="94" fill="#edf2ed"/>
+<line x1="696" y1="62" x2="696" y2="1352" stroke="#d8e2d9"/>
+<text x="846.0" y="100" font-size="23" font-weight="600" text-anchor="middle">正式支付 / 代收方</text>
+<text x="846.0" y="132" font-size="15" text-anchor="middle">执行扣款、查单及退款</text>
+<rect x="996" y="62" width="300" height="1290" fill="#ffffff"/>
+<rect x="996" y="62" width="300" height="94" fill="#edf2ed"/>
+<line x1="996" y1="62" x2="996" y2="1352" stroke="#d8e2d9"/>
+<text x="1146.0" y="100" font-size="23" font-weight="600" text-anchor="middle">公用事业收费单位</text>
+<text x="1146.0" y="132" font-size="15" text-anchor="middle">提供账单、办理入账与销账</text>
+<line x1="1296" y1="62" x2="1296" y2="1352" stroke="#d8e2d9"/>
+<line x1="96" y1="164" x2="1296" y2="164" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="230" font-size="14" fill="#63786b">01</text>
+<text x="18" y="254" font-size="13">进入</text>
+<text x="18" y="274" font-size="13">核户</text>
+<line x1="96" y1="314" x2="1296" y2="314" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="380" font-size="14" fill="#63786b">02</text>
+<text x="18" y="404" font-size="13">账单</text>
+<text x="18" y="424" font-size="13">查询</text>
+<line x1="96" y1="464" x2="1296" y2="464" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="530" font-size="14" fill="#63786b">03</text>
+<text x="18" y="554" font-size="13">支付</text>
+<text x="18" y="574" font-size="13">发起</text>
+<line x1="96" y1="614" x2="1296" y2="614" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="680" font-size="14" fill="#63786b">04</text>
+<text x="18" y="704" font-size="13">支付</text>
+<text x="18" y="724" font-size="13">判断</text>
+<line x1="96" y1="764" x2="1296" y2="764" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="830" font-size="14" fill="#63786b">05</text>
+<text x="18" y="854" font-size="13">单位</text>
+<text x="18" y="874" font-size="13">处理</text>
+<line x1="96" y1="914" x2="1296" y2="914" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="980" font-size="14" fill="#63786b">06</text>
+<text x="18" y="1004" font-size="13">入账</text>
+<text x="18" y="1024" font-size="13">判断</text>
+<line x1="96" y1="1064" x2="1296" y2="1064" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="1130" font-size="14" fill="#63786b">07</text>
+<text x="18" y="1154" font-size="13">结果</text>
+<text x="18" y="1174" font-size="13">核对</text>
+<line x1="96" y1="1214" x2="1296" y2="1214" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="1280" font-size="14" fill="#63786b">08</text>
+<text x="18" y="1304" font-size="13">用户</text>
+<text x="18" y="1324" font-size="13">获得</text>
+<polyline points="371.0,238 421.0,238" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,291.0 546.0,313.0 546.0,313.0 546.0,335.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="671.0,374 1021.0,374" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="1021.0,402 671.0,402" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<polyline points="546.0,441.0 546.0,463.0 246.0,463.0 246.0,485.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="371.0,538 421.0,538" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="671.0,538 721.0,538" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="846.0,591.0 846.0,613.0 846.0,613.0 846.0,635.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="727.0,688 671.0,688" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="421.0,688 371.0,688" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="846.0,741.0 846.0,763.0 1146.0,763.0 1146.0,785.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="1146.0,891.0 1146.0,913.0 1146.0,913.0 1146.0,935.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="1027.0,988 671.0,988" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="421.0,988 371.0,988" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="1146.0,1041.0 1146.0,1063.0 546.0,1063.0 546.0,1085.0" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<polyline points="546.0,1191.0 546.0,1213.0 246.0,1213.0 246.0,1235.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,1191.0 546.0,1213.0 546.0,1213.0 546.0,1235.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="121.0" y="185.0" width="250" height="106" rx="53.0" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="231" text-anchor="middle" font-weight="600">进入生活缴费</text>
+<text class="node-label" x="246.0" y="259" text-anchor="middle" font-weight="400">选择水 / 电 / 气</text>
+<rect x="421.0" y="185.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="231" text-anchor="middle" font-weight="600">选择实际收费单位</text>
+<text class="node-label" x="546.0" y="259" text-anchor="middle" font-weight="400">授权并核对脱敏户号</text>
+<rect x="421.0" y="335.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="381" text-anchor="middle" font-weight="600">查询账单或余额</text>
+<text class="node-label" x="546.0" y="409" text-anchor="middle" font-weight="400">展示应缴与预存说明</text>
+<rect x="1021.0" y="335.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="1146.0" y="381" text-anchor="middle" font-weight="600">校验户号、提供账单</text>
+<text class="node-label" x="1146.0" y="409" text-anchor="middle" font-weight="400">返回账单及单位信息</text>
+<rect x="121.0" y="485.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="531" text-anchor="middle" font-weight="600">核对单位、户号与金额</text>
+<text class="node-label" x="246.0" y="559" text-anchor="middle" font-weight="400">确认并发起付款</text>
+<rect x="421.0" y="485.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="531" text-anchor="middle" font-weight="600">生成缴费服务单</text>
+<text class="node-label" x="546.0" y="559" text-anchor="middle" font-weight="400">关联支付流水、防重单</text>
+<rect x="721.0" y="485.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="846.0" y="531" text-anchor="middle" font-weight="600">执行正式支付</text>
+<text class="node-label" x="846.0" y="559" text-anchor="middle" font-weight="400">返回扣款结果</text>
+<polygon points="846.0,635.0 965.0,688 846.0,741.0 727.0,688" fill="#fff7e8" stroke="#ba9650" stroke-width="1.7"/>
+<text class="node-label" x="846.0" y="695" text-anchor="middle" font-weight="600">支付是否成功？</text>
+<rect x="421.0" y="635.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="681" text-anchor="middle" font-weight="600">标记失败、核实扣款</text>
+<text class="node-label" x="546.0" y="709" text-anchor="middle" font-weight="400">如需退款则跟踪进度</text>
+<rect x="121.0" y="635.0" width="250" height="106" rx="53.0" fill="#e4f2e9" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="681" text-anchor="middle" font-weight="600">查看失败及退款进度</text>
+<text class="node-label" x="246.0" y="709" text-anchor="middle" font-weight="400">按原渠道规则处理</text>
+<rect x="1021.0" y="785.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="1146.0" y="831" text-anchor="middle" font-weight="600">接收缴费结果</text>
+<text class="node-label" x="1146.0" y="859" text-anchor="middle" font-weight="400">办理入账 / 销账</text>
+<polygon points="1146.0,935.0 1265.0,988 1146.0,1041.0 1027.0,988" fill="#fff7e8" stroke="#ba9650" stroke-width="1.7"/>
+<text class="node-label" x="1146.0" y="995" text-anchor="middle" font-weight="600">单位确认入账？</text>
+<rect x="421.0" y="935.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="981" text-anchor="middle" font-weight="600">标记处理中、持续查单</text>
+<text class="node-label" x="546.0" y="1009" text-anchor="middle" font-weight="400">派发差错工单</text>
+<rect x="121.0" y="935.0" width="250" height="106" rx="53.0" fill="#e4f2e9" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="981" text-anchor="middle" font-weight="600">查看处理中状态</text>
+<text class="node-label" x="246.0" y="1009" text-anchor="middle" font-weight="400">等待核实，避免重复缴费</text>
+<rect x="421.0" y="1085.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="1117" text-anchor="middle" font-weight="600">核对三方订单状态</text>
+<text class="node-label" x="546.0" y="1145" text-anchor="middle" font-weight="400">展示缴费成功与凭证</text>
+<text class="node-label" x="546.0" y="1173" text-anchor="middle" font-weight="400">保留发票入口</text>
+<rect x="121.0" y="1235.0" width="250" height="106" rx="53.0" fill="#e4f2e9" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="1267" text-anchor="middle" font-weight="600">账单确认已缴</text>
+<text class="node-label" x="246.0" y="1295" text-anchor="middle" font-weight="400">可查凭证与记录</text>
+<text class="node-label" x="246.0" y="1323" text-anchor="middle" font-weight="400">自主选择下期提醒</text>
+<rect x="421.0" y="1235.0" width="250" height="106" rx="53.0" fill="#e4f2e9" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="1281" text-anchor="middle" font-weight="600">归档订单与差错</text>
+<text class="node-label" x="546.0" y="1309" text-anchor="middle" font-weight="400">按选择设置下期提醒</text>
+<rect x="808.0" y="346" width="76" height="24" fill="#ffffff"/>
+<text class="branch-label" x="846.0" y="363" text-anchor="middle">查账请求</text>
+<rect x="808.0" y="411" width="76" height="24" fill="#ffffff"/>
+<text class="branch-label" x="846.0" y="428" text-anchor="middle">账单回传</text>
+<rect x="677.0" y="660" width="44" height="24" fill="#ffffff"/>
+<text class="branch-label" x="699.0" y="677" text-anchor="middle">失败</text>
+<rect x="974.0" y="738.0" width="44" height="24" fill="#ffffff"/>
+<text class="branch-label" x="996.0" y="755.0" text-anchor="middle">成功</text>
+<rect x="819.0" y="960" width="60" height="24" fill="#ffffff"/>
+<text class="branch-label" x="849.0" y="977" text-anchor="middle">未确认</text>
+<rect x="816.0" y="1038.0" width="60" height="24" fill="#ffffff"/>
+<text class="branch-label" x="846.0" y="1055.0" text-anchor="middle">已确认</text>
+<line x1="28" y1="1385" x2="68" y2="1385" stroke="#496756" stroke-width="2.2" marker-end="url(#arrow)"/><text x="80" y="1391" font-size="15">业务动作</text>
+<line x1="222" y1="1385" x2="262" y2="1385" stroke="#7a9185" stroke-width="2.2" stroke-dasharray="7 5" marker-end="url(#data)"/><text x="274" y="1391" font-size="15">状态 / 凭证 / 对账</text>
+<line x1="486" y1="1385" x2="526" y2="1385" stroke="#356c9c" stroke-width="2.2" marker-end="url(#money)"/><text x="538" y="1391" font-size="15">合同付款</text>
+<text x="28" y="1430" font-size="14" fill="#667a6d">建议业务流程；合作范围、接口、权益与计费口径按当前合同及实际能力验收。</text>
+</svg>
