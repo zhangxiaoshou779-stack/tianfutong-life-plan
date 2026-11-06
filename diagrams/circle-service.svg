@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="1460" viewBox="0 0 1320 1460" role="img" aria-labelledby="title desc">
+<title id="title">圈子活动：免费聚客、授权交易与参加结果</title>
+<desc id="desc">四个责任方的泳道流程。矩形为处理，菱形为判断，圆角绿色节点为用户或平台获得的结果；虚线表示状态及对账回传，蓝线表示合同付款。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#496756"/></marker><marker id="data" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#7a9185"/></marker><marker id="money" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#356c9c"/></marker></defs>
+<rect width="1320" height="1460" fill="#ffffff"/>
+<style>text{font-family:"Microsoft YaHei","PingFang SC",sans-serif;fill:#223b32} .node-label{font-size:20px} .branch-label{font-size:16px;fill:#496756}</style>
+<text x="28" y="38" font-size="26" font-weight="600">圈子活动：免费聚客、授权交易与参加结果</text>
+<rect x="96" y="62" width="300" height="1290" fill="#f9fbf9"/>
+<rect x="96" y="62" width="300" height="94" fill="#edf2ed"/>
+<line x1="96" y1="62" x2="96" y2="1352" stroke="#d8e2d9"/>
+<text x="246.0" y="100" font-size="23" font-weight="600" text-anchor="middle">用户</text>
+<text x="246.0" y="132" font-size="15" text-anchor="middle">选择兴趣、报名、参加与退改</text>
+<rect x="396" y="62" width="300" height="1290" fill="#f1f7f2"/>
+<rect x="396" y="62" width="300" height="94" fill="#dcece1"/>
+<line x1="396" y1="62" x2="396" y2="1352" stroke="#d8e2d9"/>
+<text x="546.0" y="100" font-size="23" font-weight="600" text-anchor="middle">天府通</text>
+<text x="546.0" y="132" font-size="15" text-anchor="middle">内容审核、分发、参加承接与受理</text>
+<rect x="696" y="62" width="300" height="1290" fill="#f9fbf9"/>
+<rect x="696" y="62" width="300" height="94" fill="#edf2ed"/>
+<line x1="696" y1="62" x2="696" y2="1352" stroke="#d8e2d9"/>
+<text x="846.0" y="100" font-size="23" font-weight="600" text-anchor="middle">主办方</text>
+<text x="846.0" y="132" font-size="15" text-anchor="middle">排期、名额、现场履约与变更</text>
+<rect x="996" y="62" width="300" height="1290" fill="#ffffff"/>
+<rect x="996" y="62" width="300" height="94" fill="#edf2ed"/>
+<line x1="996" y1="62" x2="996" y2="1352" stroke="#d8e2d9"/>
+<text x="1146.0" y="100" font-size="23" font-weight="600" text-anchor="middle">授权票务方</text>
+<text x="1146.0" y="132" font-size="15" text-anchor="middle">付费出票、核销、退款与账单</text>
+<line x1="1296" y1="62" x2="1296" y2="1352" stroke="#d8e2d9"/>
+<line x1="96" y1="164" x2="1296" y2="164" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="230" font-size="14" fill="#63786b">01</text>
+<text x="18" y="254" font-size="13">供给</text>
+<text x="18" y="274" font-size="13">确认</text>
+<line x1="96" y1="314" x2="1296" y2="314" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="380" font-size="14" fill="#63786b">02</text>
+<text x="18" y="404" font-size="13">活动</text>
+<text x="18" y="424" font-size="13">发现</text>
+<line x1="96" y1="464" x2="1296" y2="464" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="530" font-size="14" fill="#63786b">03</text>
+<text x="18" y="554" font-size="13">参加</text>
+<text x="18" y="574" font-size="13">选择</text>
+<line x1="96" y1="614" x2="1296" y2="614" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="680" font-size="14" fill="#63786b">04</text>
+<text x="18" y="704" font-size="13">报名或</text>
+<text x="18" y="724" font-size="13">交易</text>
+<line x1="96" y1="764" x2="1296" y2="764" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="830" font-size="14" fill="#63786b">05</text>
+<text x="18" y="854" font-size="13">凭证与</text>
+<text x="18" y="874" font-size="13">反馈</text>
+<line x1="96" y1="914" x2="1296" y2="914" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="980" font-size="14" fill="#63786b">06</text>
+<text x="18" y="1004" font-size="13">到场或</text>
+<text x="18" y="1024" font-size="13">停办</text>
+<line x1="96" y1="1064" x2="1296" y2="1064" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="1130" font-size="14" fill="#63786b">07</text>
+<text x="18" y="1154" font-size="13">核验与</text>
+<text x="18" y="1174" font-size="13">售后</text>
+<line x1="96" y1="1214" x2="1296" y2="1214" stroke="#e5ebe5" stroke-dasharray="4 6"/>
+<text x="18" y="1280" font-size="14" fill="#63786b">08</text>
+<text x="18" y="1304" font-size="13">获得与</text>
+<text x="18" y="1324" font-size="13">结算</text>
+<polyline points="721.0,238 671.0,238" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,291.0 546.0,313.0 246.0,313.0 246.0,335.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="371.0,388 421.0,388" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,441.0 546.0,463.0 546.0,463.0 546.0,485.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,591.0 546.0,613.0 546.0,613.0 546.0,635.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,591.0 546.0,613.0 846.0,613.0 846.0,635.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,591.0 546.0,613.0 1146.0,613.0 1146.0,635.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,741.0 546.0,763.0 546.0,763.0 546.0,785.0" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<polyline points="846.0,741.0 846.0,763.0 246.0,763.0 246.0,785.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="1146.0,741.0 1146.0,763.0 546.0,763.0 546.0,785.0" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<polyline points="421.0,838 371.0,838" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="246.0,891.0 246.0,913.0 246.0,913.0 246.0,935.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="721.0,988 671.0,988" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="546.0,1041.0 546.0,1063.0 1146.0,1063.0 1146.0,1085.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="246.0,1041.0 246.0,1063.0 846.0,1063.0 846.0,1085.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="971.0,1138 1021.0,1138" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<polyline points="846.0,1191.0 846.0,1213.0 246.0,1213.0 246.0,1235.0" fill="none" stroke="#496756" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<polyline points="1146.0,1191.0 1146.0,1213.0 546.0,1213.0 546.0,1235.0" fill="none" stroke="#7a9185" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#data)" stroke-dasharray="7 5"/>
+<rect x="721.0" y="185.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="846.0" y="231" text-anchor="middle" font-weight="600">提供活动与授权</text>
+<text class="node-label" x="846.0" y="259" text-anchor="middle" font-weight="400">确认排期名额与规则</text>
+<rect x="421.0" y="185.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="231" text-anchor="middle" font-weight="600">审核并发布场次</text>
+<text class="node-label" x="546.0" y="259" text-anchor="middle" font-weight="400">标明主办和参加方式</text>
+<rect x="121.0" y="335.0" width="250" height="106" rx="53.0" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="381" text-anchor="middle" font-weight="600">进入阅读或艺术圈</text>
+<text class="node-label" x="246.0" y="409" text-anchor="middle" font-weight="400">看活动、选择场次</text>
+<rect x="421.0" y="335.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="381" text-anchor="middle" font-weight="600">展示详情与出行</text>
+<text class="node-label" x="546.0" y="409" text-anchor="middle" font-weight="400">保留官方报名归属</text>
+<polygon points="546.0,485.0 665.0,538 546.0,591.0 427.0,538" fill="#fff7e8" stroke="#ba9650" stroke-width="1.7"/>
+<text class="node-label" x="546.0" y="545" text-anchor="middle" font-weight="600">本场参加方式？</text>
+<rect x="421.0" y="635.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="681" text-anchor="middle" font-weight="600">获准的免费报名</text>
+<text class="node-label" x="546.0" y="709" text-anchor="middle" font-weight="400">生成报名记录或凭证</text>
+<rect x="721.0" y="635.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="846.0" y="681" text-anchor="middle" font-weight="600">原渠道官方报名</text>
+<text class="node-label" x="846.0" y="709" text-anchor="middle" font-weight="400">原渠道订单与售后</text>
+<rect x="1021.0" y="635.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="1146.0" y="681" text-anchor="middle" font-weight="600">已授权付费场次</text>
+<text class="node-label" x="1146.0" y="709" text-anchor="middle" font-weight="400">锁名额、支付、出票</text>
+<rect x="121.0" y="785.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="831" text-anchor="middle" font-weight="600">取得适用参加凭证</text>
+<text class="node-label" x="246.0" y="859" text-anchor="middle" font-weight="400">关注后续同兴趣商品</text>
+<rect x="421.0" y="785.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="831" text-anchor="middle" font-weight="600">回传范围内记状态</text>
+<text class="node-label" x="546.0" y="859" text-anchor="middle" font-weight="400">官方外跳只报导流</text>
+<rect x="121.0" y="935.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="981" text-anchor="middle" font-weight="600">按时前往并出示凭证</text>
+<text class="node-label" x="246.0" y="1009" text-anchor="middle" font-weight="400">实际参加本场活动</text>
+<rect x="721.0" y="935.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="846.0" y="981" text-anchor="middle" font-weight="600">停办或排期变更</text>
+<text class="node-label" x="846.0" y="1009" text-anchor="middle" font-weight="400">通知并按规则处理</text>
+<rect x="421.0" y="935.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="981" text-anchor="middle" font-weight="600">通知用户与释放名额</text>
+<text class="node-label" x="546.0" y="1009" text-anchor="middle" font-weight="400">转实际交易方退改</text>
+<rect x="721.0" y="1085.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="846.0" y="1131" text-anchor="middle" font-weight="600">现场履约与签到</text>
+<text class="node-label" x="846.0" y="1159" text-anchor="middle" font-weight="400">反馈可核验参加</text>
+<rect x="1021.0" y="1085.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
+<text class="node-label" x="1146.0" y="1131" text-anchor="middle" font-weight="600">付费订单核销或退款</text>
+<text class="node-label" x="1146.0" y="1159" text-anchor="middle" font-weight="400">提供净订单账单</text>
+<rect x="121.0" y="1235.0" width="250" height="106" rx="53.0" fill="#e4f2e9" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="246.0" y="1281" text-anchor="middle" font-weight="600">获得活动体验</text>
+<text class="node-label" x="246.0" y="1309" text-anchor="middle" font-weight="400">自愿再次参加</text>
+<rect x="421.0" y="1235.0" width="250" height="106" rx="53.0" fill="#e4f2e9" stroke="#176c60" stroke-width="1.6"/>
+<text class="node-label" x="546.0" y="1267" text-anchor="middle" font-weight="600">核对参加与退款</text>
+<text class="node-label" x="546.0" y="1295" text-anchor="middle" font-weight="400">合同佣金或服务费</text>
+<text class="node-label" x="546.0" y="1323" text-anchor="middle" font-weight="400">记录复访和经营贡献</text>
+<rect x="535.0" y="602.0" width="76" height="24" fill="#ffffff"/>
+<text class="branch-label" x="573.0" y="619.0" text-anchor="middle">免费报名</text>
+<rect x="658.0" y="588.0" width="76" height="24" fill="#ffffff"/>
+<text class="branch-label" x="696.0" y="605.0" text-anchor="middle">官方外跳</text>
+<rect x="808.0" y="588.0" width="76" height="24" fill="#ffffff"/>
+<text class="branch-label" x="846.0" y="605.0" text-anchor="middle">授权付费</text>
+<rect x="808.0" y="1038.0" width="76" height="24" fill="#ffffff"/>
+<text class="branch-label" x="846.0" y="1055.0" text-anchor="middle">付费退改</text>
+<line x1="28" y1="1385" x2="68" y2="1385" stroke="#496756" stroke-width="2.2" marker-end="url(#arrow)"/><text x="80" y="1391" font-size="15">业务动作</text>
+<line x1="222" y1="1385" x2="262" y2="1385" stroke="#7a9185" stroke-width="2.2" stroke-dasharray="7 5" marker-end="url(#data)"/><text x="274" y="1391" font-size="15">状态 / 凭证 / 对账</text>
+<line x1="486" y1="1385" x2="526" y2="1385" stroke="#356c9c" stroke-width="2.2" marker-end="url(#money)"/><text x="538" y="1391" font-size="15">合同付款</text>
+<text x="28" y="1430" font-size="14" fill="#667a6d">建议业务流程；合作范围、接口、权益与计费口径按当前合同及实际能力验收。</text>
+</svg>
