@@ -83,7 +83,7 @@
 <text class="node-label" x="546.0" y="231" text-anchor="middle" font-weight="600">审核、临期复核与发布</text>
 <text class="node-label" x="546.0" y="259" text-anchor="middle" font-weight="400">明确来源和参加方式</text>
 <rect x="121.0" y="335.0" width="250" height="106" rx="53.0" fill="#ffffff" stroke="#9eb5a6" stroke-width="1.6"/>
-<text class="node-label" x="246.0" y="381" text-anchor="middle" font-weight="600">按今晚 / 周末与兴趣</text>
+<text class="node-label" x="246.0" y="381" text-anchor="middle" font-weight="600">按日期和兴趣选择</text>
 <text class="node-label" x="246.0" y="409" text-anchor="middle" font-weight="400">选择出发站点、看活动</text>
 <rect x="421.0" y="335.0" width="250" height="106" rx="9" fill="#ffffff" stroke="#176c60" stroke-width="1.6"/>
 <text class="node-label" x="546.0" y="381" text-anchor="middle" font-weight="600">展示活动与履约主体</text>
@@ -135,5 +135,5 @@
 <line x1="28" y1="1385" x2="68" y2="1385" stroke="#496756" stroke-width="2.2" marker-end="url(#arrow)"/><text x="80" y="1391" font-size="15">业务动作</text>
 <line x1="222" y1="1385" x2="262" y2="1385" stroke="#7a9185" stroke-width="2.2" stroke-dasharray="7 5" marker-end="url(#data)"/><text x="274" y="1391" font-size="15">状态 / 凭证 / 对账</text>
 <line x1="486" y1="1385" x2="526" y2="1385" stroke="#356c9c" stroke-width="2.2" marker-end="url(#money)"/><text x="538" y="1391" font-size="15">合同付款</text>
-<text x="28" y="1430" font-size="14" fill="#667a6d">建议业务流程；合作范围、接口、权益与计费口径按当前合同及实际能力验收。</text>
+<text x="28" y="1430" font-size="14" fill="#667a6d">规划流程示意；具体项目仅作示例，授权、参与方式和结算条件以后续合作为准。</text>
 </svg>
